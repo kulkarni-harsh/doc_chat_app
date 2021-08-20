@@ -18,7 +18,7 @@ class DoctorCard extends StatelessWidget {
         Navigator.push(
           context,
           MaterialPageRoute(
-            builder: (context) => DoctorPage(
+            builder: (c) => DoctorPage(
               doctor: doctor,
             ),
           ),
