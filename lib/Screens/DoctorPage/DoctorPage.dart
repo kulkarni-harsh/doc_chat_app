@@ -38,7 +38,7 @@ class DoctorPage extends StatelessWidget {
                         InfoCard(
                           title: "Reviews",
                           widget: Container(
-                            height: 10,
+                            height: 80,
                             child: PageView(
                               controller: PageController(
                                 viewportFraction: 0.8,
