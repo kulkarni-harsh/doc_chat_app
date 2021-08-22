@@ -6,3 +6,12 @@ BoxShadow kCardShadow = BoxShadow(
   blurRadius: 7,
   offset: Offset(0, 3), // changes position of shadow
 );
+
+TextStyle kHeadTextStyle = TextStyle(
+  fontWeight: FontWeight.w700,
+  fontSize: 17,
+);
+TextStyle kSubHeadTextStyle = TextStyle(
+  fontWeight: FontWeight.w400,
+  fontSize: 17,
+);

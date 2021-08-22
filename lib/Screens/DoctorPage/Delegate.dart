@@ -39,6 +39,9 @@ class Delegate extends SliverPersistentHeaderDelegate {
               fontWeight: FontWeight.bold,
             ),
           ),
+          SizedBox(
+            height: 5,
+          ),
           Text(
             doctor.profession,
             style: TextStyle(

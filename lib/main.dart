@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
           kPrimaryColor,
         ),
       ),
-      home: HomePage(),
+      home: DoctorPage(doctor: kDoctorList.first),
     );
   }
 }

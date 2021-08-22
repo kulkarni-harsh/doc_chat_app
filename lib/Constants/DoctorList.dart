@@ -6,7 +6,8 @@ List<Doctor> kDoctorList = [
     profession: "Therapist",
     rating: 4,
     urlToImage: "https://source.unsplash.com/random",
-    aboutMe: "Your mom so fat Thanos had to clap",
+    aboutMe:
+        "Your mom so fat Thanos had to clap. Your mom so fat Thanos had to clap. Your mom so fat Thanos had to clap. Your mom so fat Thanos had to clap. Your mom so fat Thanos had to clap",
     price: 2000,
     phNo: 69999999105,
     location: "St. Peter's Hospital, Versova, Mumbai",
